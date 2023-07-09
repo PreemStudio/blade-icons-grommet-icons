@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-grommet-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-grommet-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-grommet-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-grommet-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-grommet-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-grommet-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-grommet-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-grommet-icons" alt="License" />
-    </a>
-</p>
 
 ## About Grommet Icons
 
